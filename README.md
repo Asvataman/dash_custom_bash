@@ -8,6 +8,7 @@ Dash (Dallas Shell) is a simple Unix shell implementation developed as part of t
  - Built-in Commands
  - Redirection
  - Parallel Commands
+ - Error Handling
 ## Features
  - Interactive and batch mode execution
  - Command parsing and execution
